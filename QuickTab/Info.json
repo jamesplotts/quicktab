@@ -1,0 +1,11 @@
+{
+  "identifier": "jamesplotts/quicktab",
+  "version": "__VERSION__",
+  "name": "Quick Tab",
+  "author": "jamesplotts",
+  "description": "Adds Waybill, Passengers or MOW to a car's right-click menu, opening the car window straight on that tab. Ctrl+click on a car does the same.",
+  "assemblies": ["QuickTab.dll"],
+  "dependencies": {
+    "required": ["rr/game >=0.6.0"]
+  }
+}
