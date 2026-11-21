@@ -1,6 +1,7 @@
 # Quick Tab
 
 Source: https://github.com/jamesplotts/quicktab
+Download: https://www.nexusmods.com/railroader/mods/2379 (or the GitHub releases)
 
 A Railroader 0.6 mod. Right-click a car and open its window straight on the tab you want, instead of the Car tab:
 
